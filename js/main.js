@@ -16,6 +16,7 @@ class ImageMaker {
 
         // TODO: Select the `#image-preview` div using any document selector method.
         
+        
         this.imagePreview = document.getElementById('image-preview');
 
         // TODO: create a new `<p>` element called `this.topText`
